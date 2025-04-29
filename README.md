@@ -38,26 +38,26 @@ Il existe pour l'instant 3 supports de formation sur le logiciel statistique RSt
 The training materials made available in this directory were produced by me. They are all available for download, but only the R Level 1 & 2 training is accessible without passwords to open the PDF. 
 To view the other PDFs, please send me a private message to give you access to them.
 
-Each support is available in French & English with a correction. This material was produced as part of my job as a Statistical Engineer at the Maison des sciences de l'Homme in Brittany. It is possible that future media will be made on other software (such as Python). These documents are the result of requests for training by doctoral students and researchers. 
+Each course is available in French & English with a correction. This material was produced as part of my job as a Statistical Engineer at the Maison des sciences de l'Homme in Brittany. It is possible that future media will be made on other software (such as Python). These documents are the result of requests for training by doctoral students and researchers. 
 
 
 ####  **_Different Contents_**
 
 There are currently 3 training materials on the statistical software RStudio. The latter cover all the basics for carrying out a statistical study of a database.
-* Support Premier R/Rstudio: 
+* First Step R/Rstudio Course: 
     * For people who are just starting out with coding software.
-    * Able to do at the end of support:
+    * Able to do at the end of course :
         * imports of their files (excel, csv...).
         * of the basic charts.
         * averages / frequency tables / cross-sorting.
-* Dplyr & GGplots2 second level support:
-    * Know beforehand the concepts seen in the first support.
-    * Able to do at the end of support:
+* Second Level Course Dplyr & GGplots2 :
+    * Know beforehand the concepts seen in the first course.
+    * Able to do at the end of course:
         * a relatively extensive cleaning of its database.
         * Graphs of several detailed types.
-* Support Third Level Bivariate & Multivariate Analysis:
+* Third Level Course Bivariate & Multivariate Analysis:
     * Have a database ready (cleaned) in advance for analysis.
-    * Able to do at the end of support:
+    * Able to do at the end of course:
         * Several tests (independence/dependency, normality, multicollinearity...)
         * Factor analysis (ACP, ACM, AFC, AFM)
         * Linear/ Logistic/ Multinomial regressions 

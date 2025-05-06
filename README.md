@@ -25,6 +25,7 @@ Il existe pour l'instant 3 supports de formation sur le logiciel statistique RSt
         * des graphiques de plusieurs types détaillés.
 * Support Troisième Niveau Analyse Bivariées & Multivariées :
     * Avoir au préalable une base de données prête (nettoyée) pour faire des analyses.
+    * Avoir un niveau intermédaire sur l'utilisation de l'outil (R/Rstudio).
     * Capable de faire à la fin du support :
         * Plusieurs tests (indépendance/dépendance, normalité, multicolinéarité...)
         * Analyses factorielles (ACP, ACM, AFC, AFM)
@@ -57,6 +58,7 @@ There are currently 3 training materials on the statistical software RStudio. Th
         * Graphs of several detailed types.
 * Third Level Course Bivariate & Multivariate Analysis:
     * Have a database ready (cleaned) in advance for analysis.
+    * Have a intermediate level when using R/Rstudio.
     * Able to do at the end of course:
         * Several tests (independence/dependency, normality, multicollinearity...)
         * Factor analysis (ACP, ACM, AFC, AFM)
